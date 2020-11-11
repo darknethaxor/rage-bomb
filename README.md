@@ -2,7 +2,7 @@
 
 ## Installation
 
-# Note: Don,t Use Your personal Email or Must be Allow Less secure app access Permission.
+* Note: Don,t Use Your personal Email or Must be Allow Less secure app access Permission.
 
 * `apt update`
 * `apt upgrade -y`
